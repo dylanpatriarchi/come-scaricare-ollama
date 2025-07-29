@@ -139,7 +139,7 @@ http://localhost:11434
 
 ## 📚 Risorse Utili
 
-- [Documentazione ufficiale](https://ollama.ai/docs)
+- [Documentazione ufficiale](https://github.com/ollama/ollama/tree/main/docs)
 - [Modelli disponibili](https://ollama.ai/library)
 - [GitHub repository](https://github.com/ollama/ollama)
 - [Community Discord](https://discord.gg/ollama)
